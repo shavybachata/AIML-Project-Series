@@ -6,6 +6,7 @@ This project implements a chatbot using Dialogflow, Node.js, Express, and MongoD
 ![Chatbot Interface](https://github.com/shavybachata/AIML-Project-Series/blob/main/ChatEX.png?raw=true)
 
 
+
 ## Features
 - Provides information about admission procedures, requirements, and deadlines.
 - Retrieves data from a MongoDB database to respond to user queries.
